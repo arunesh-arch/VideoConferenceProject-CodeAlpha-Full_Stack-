@@ -1,0 +1,19 @@
+# Private database and uploaded files
+B2C-Fun.sqlite
+B2C-Fun.sqlite-shm
+B2C-Fun.sqlite-wal
+uploads/
+
+# Environment secrets
+.env
+node_modules/
+client/node_modules/
+client/dist/
+dist/
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
