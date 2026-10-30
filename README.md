@@ -54,3 +54,12 @@ Local media previews do not by themselves guarantee that remote participants rec
 Project Status
 
 Built as a full-stack learning project. Authentication, file-sharing security, deployment, and multi-device compatibility should be tested before production use.
+
+Sample Screenshots:
+
+<img width="944" height="479" alt="HomePage" src="https://github.com/user-attachments/assets/ebbcd5ba-0163-425a-b3d2-18c06b6f2919" />
+<img width="595" height="392" alt="Whiteboard" src="https://github.com/user-attachments/assets/339a22c9-87b5-4416-8388-f141b42b210e" />
+<img width="602" height="404" alt="Meeting page" src="https://github.com/user-attachments/assets/32c91b17-9e3c-4813-8fbe-ebd08fa55b28" />
+<img width="929" height="401" alt="Screen sharing" src="https://github.com/user-attachments/assets/79acc39e-dca0-4e80-86ce-68d6145315c5" />
+
+
